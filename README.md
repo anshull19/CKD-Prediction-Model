@@ -35,10 +35,6 @@ The application uses the `kidney_disease.csv` dataset to train the machine learn
 - scikit-learn (for machine learning)
 - NumPy and pandas (for data handling and preprocessing)
 
-## License
-
-This project is open source and available under the [LICENSE](LICENSE) file.
-
 ---
 
 Thank you for checking out the CKD Predictor project! If you have any questions or feedback, feel free to reach out.
